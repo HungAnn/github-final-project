@@ -1,0 +1,3 @@
+/home/hungan/CPorjects/Test/build/CMakeFiles/edit_cache.dir
+/home/hungan/CPorjects/Test/build/CMakeFiles/rebuild_cache.dir
+/home/hungan/CPorjects/Test/build/CMakeFiles/Demo.dir

@@ -20,7 +20,6 @@
 #include <ctime>
 #include <sys/stat.h>
 #include <torch/torch.h>
-#include "utils.h"
 namespace fs = std::experimental::filesystem;
 
 using namespace cv;

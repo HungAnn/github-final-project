@@ -4,7 +4,6 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hungan/CPorjects/Test/LogUtils.cpp" "/home/hungan/CPorjects/Test/build/CMakeFiles/Demo.dir/LogUtils.cpp.o"
   "/home/hungan/CPorjects/Test/main.cpp" "/home/hungan/CPorjects/Test/build/CMakeFiles/Demo.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

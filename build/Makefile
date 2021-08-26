@@ -123,33 +123,6 @@ Demo/fast:
 	$(MAKE) -f CMakeFiles/Demo.dir/build.make CMakeFiles/Demo.dir/build
 .PHONY : Demo/fast
 
-LogUtils.o: LogUtils.cpp.o
-
-.PHONY : LogUtils.o
-
-# target to build an object file
-LogUtils.cpp.o:
-	$(MAKE) -f CMakeFiles/Demo.dir/build.make CMakeFiles/Demo.dir/LogUtils.cpp.o
-.PHONY : LogUtils.cpp.o
-
-LogUtils.i: LogUtils.cpp.i
-
-.PHONY : LogUtils.i
-
-# target to preprocess a source file
-LogUtils.cpp.i:
-	$(MAKE) -f CMakeFiles/Demo.dir/build.make CMakeFiles/Demo.dir/LogUtils.cpp.i
-.PHONY : LogUtils.cpp.i
-
-LogUtils.s: LogUtils.cpp.s
-
-.PHONY : LogUtils.s
-
-# target to generate assembly for a file
-LogUtils.cpp.s:
-	$(MAKE) -f CMakeFiles/Demo.dir/build.make CMakeFiles/Demo.dir/LogUtils.cpp.s
-.PHONY : LogUtils.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -186,9 +159,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Demo"
-	@echo "... LogUtils.o"
-	@echo "... LogUtils.i"
-	@echo "... LogUtils.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

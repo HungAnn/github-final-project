@@ -6,22 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/hungan/CPorjects/Test/LogUtils.h
-string.h
--
-ostream
--
-iostream
--
-stdlib.h
--
-stdio.h
--
-experimental/filesystem
--
-fstream
--
-
 /home/hungan/CPorjects/Test/main.cpp
 memory
 -
@@ -55,8 +39,6 @@ chrono
 -
 experimental/filesystem
 -
-LogUtils.h
-/home/hungan/CPorjects/Test/LogUtils.h
 
 /usr/include/opencv4/opencv2/calib3d.hpp
 opencv2/core.hpp

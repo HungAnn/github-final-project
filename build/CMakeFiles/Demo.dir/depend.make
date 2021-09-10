@@ -4,7 +4,6 @@
 CMakeFiles/Demo.dir/LogUtils.cpp.o: ../LogUtils.cpp
 CMakeFiles/Demo.dir/LogUtils.cpp.o: ../LogUtils.h
 
-CMakeFiles/Demo.dir/main.cpp.o: ../LogUtils.h
 CMakeFiles/Demo.dir/main.cpp.o: ../main.cpp
 CMakeFiles/Demo.dir/main.cpp.o: /usr/include/opencv4/opencv2/calib3d.hpp
 CMakeFiles/Demo.dir/main.cpp.o: /usr/include/opencv4/opencv2/core.hpp

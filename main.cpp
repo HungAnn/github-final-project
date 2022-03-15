@@ -23,7 +23,7 @@ void func(cv::Mat a)
 
 int main()
 {
-    uint8_t gridNum = 10;//123123
+    uint8_t gridNum = 10;//123789
     
 
 

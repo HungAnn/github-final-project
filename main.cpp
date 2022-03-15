@@ -26,6 +26,7 @@ int main()
     uint8_t gridNum = 10;//
 
     
+
     int liveViewW = 1024;
     int liveViewH = 680;
     int grideSizeW = liveViewW / gridNum;

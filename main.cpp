@@ -23,8 +23,7 @@ void func(cv::Mat a)
 
 int main()
 {
-    uint8_t gridNum = 10;//
-
+    uint8_t gridNum = 10;//123
     
     int liveViewW = 1024;
     int liveViewH = 680;

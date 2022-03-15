@@ -7,6 +7,7 @@
 #IncludeRegexTransform: 
 
 /home/hungan/CPorjects/Test/main.cpp
+<<<<<<< HEAD
 stdio.h
 -
 stdlib.h
@@ -54,6 +55,9 @@ utils.h
 
 /home/hungan/CPorjects/Test/utils.h
 stdio.h
+=======
+memory
+>>>>>>> b1
 -
 stdlib.h
 -
@@ -79,6 +83,17 @@ opencv2/imgcodecs.hpp
 -
 opencv2/imgproc.hpp
 -
+<<<<<<< HEAD
+=======
+sys/time.h
+-
+ctime
+-
+chrono
+-
+experimental/filesystem
+-
+>>>>>>> b1
 
 /usr/include/opencv4/opencv2/calib3d.hpp
 opencv2/core.hpp

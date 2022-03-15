@@ -23,6 +23,7 @@ void func(cv::Mat a)
 
 int main()
 {
+    //b1
     uint8_t gridNum = 10;//123456
     
 

@@ -14,4 +14,6 @@ add_executable(Demo main.cpp)
 #target_link_libraries( Demo ${OpenCV_LIBS} stdc++fs)
 #target_link_libraries( Demo "${TORCH_LIBRARIES}")
 
-#set_property(TARGET example-app PROPERTY CXX_STANDARD 14)
+#set_property(TARGET example-app PROPERTY CXX_STANDARD 14
+###
+###
